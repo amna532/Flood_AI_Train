@@ -1,0 +1,7 @@
+names:
+- flood
+nc: 1
+path: /content/drive/MyDrive/Colab Notebooks/Flood-AI-Train/Merged Satellite Flood
+  Images.v4i.yolov11
+train: train
+val: valid

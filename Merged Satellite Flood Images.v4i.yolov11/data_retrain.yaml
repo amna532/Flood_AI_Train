@@ -1,0 +1,8 @@
+names:
+- fire
+- flood
+nc: 2
+path: /content/drive/MyDrive/Colab Notebooks/Flood-AI-Train/Merged Satellite Flood
+  Images.v4i.yolov11
+train: test
+val: test
